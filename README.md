@@ -1,5 +1,9 @@
 # Spaceflight Simulator Texture Maker
 
+## Latest Version (Compiled Python Script)
+A compiled version of the Spaceflight Simulator Texture Maker script is now available as a standalone executable. You can find it on GitHub, works the same as the script but should require no instalation
+
+
 ## Description
 Spaceflight Simulator Texture Maker is a simple Python script designed to create easy color or image textures. This tool enables you to generate textures for Spaceflight Simulator, allowing the use of hex codes or images.
 
